@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+.bgblack{
+    background-color: rgb(48, 50, 50);
+}
+.bgbrown{
+    background-color: rgb(119, 115, 107);
+
+}
+.h1-b{
+    text-shadow: 5px 5px 10px rgb(54, 54, 54);
+    /* margin: 5px; */
+}
+.h1-w{
+    text-shadow: 5px 5px 10px rgb(133, 133, 133);
+    /* margin: 5px; */
+}
+
+a{
+    color: black;
+}
+.b-non{
+    border: none;
+}
+.btun{
+    padding: 10px 20px;
+}
+.btun-trans{
+    background-color: transparent;
+    border: solid rgb(255, 255, 255) 2px;
+    
+
+}
+.details{
+    padding: 40px;
+}
+hr{
+    width: 160px;
+}
